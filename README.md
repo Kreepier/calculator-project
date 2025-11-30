@@ -11,6 +11,6 @@
 - Остача від ділення (%)
 ## Запуск
 Для запуску програми виконайте команду
-python calculator.py
+python calculator.py або python3 calculator.py
 ## Автор
 Бойчук Олександр КН-21
